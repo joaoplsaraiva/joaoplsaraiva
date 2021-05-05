@@ -5,20 +5,15 @@
 
 Here are some ideas to get you started:
 -->
+📫 **Social Media:**
 
-- 🔭 I’m currently working on ...
+[![GitHub](icons/github.png)](https://github.com/joaoplsaraiva)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/jo%C3%A3o-paulo-lima-saraiva-41799428/)
 
-- 🌱 I’m currently learning ...
+🔭 **Currently working with:**
 
-- 👯 I’m looking to collaborate on ...
+🌱 **Currently Learning:**
 
-- 🤔 I’m looking for help with ...
+⭐ **Previously worked with:**
 
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
 
