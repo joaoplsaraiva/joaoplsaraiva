@@ -1,5 +1,5 @@
 ### Hi I'm João Paulo 👋
-<br/>
+
 ## Hello, DevOps!!!
 
 Tenho 41 anos, moro em Belém/PA e gosto de trabalhar e descobrir novas tecnologias. Sou aventureiro no universo da programação, corrigindo os bugs dos outros do que os meus, e quanto mais eu aprendo e passo raiva, mais eu gosto de tudo isso!
@@ -16,9 +16,11 @@ Tenho 41 anos, moro em Belém/PA e gosto de trabalhar e descobrir novas tecnolog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" height="40"/>    
 
-<br/>
+
 ## Contatos:
+
 - 📫 Como entrar em contato comigo: ...
+
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
