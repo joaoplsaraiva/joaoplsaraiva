@@ -1,5 +1,10 @@
 ### Hi I'm João Paulo 👋
 <br/>
+## Hello, DevOps!!!
+Tenho 41 anos, moro em Belém/PA e gosto de trabalhar e descobrir novas tecnologias. Sou aventureiro no universo da programação, corrigindo os bugs dos outros do que os meus, e quanto mais eu aprendo e passo raiva, mais eu gosto de tudo isso!
+## Tecnologias e ferramentas que estou aprendendo:
+
+## Tenho conhecimento:
 - 🔭 Atualmente estou trabalhando na FADESP
   <br/>
 - 🌱 Atualmente estou aprendendo K8S, K3S, Rancher
