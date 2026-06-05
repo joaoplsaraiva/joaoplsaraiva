@@ -38,11 +38,6 @@ Atualmente atuando como **Analista de Sistemas Sênior / DevOps** na **FADESP**,
 
 | Certificação | Emissor | Ano |
 |---|---|---|
-| 🔴 Red Hat OpenShift Administration II — DO280 | Red Hat | — |
-| 🔴 Enterprise Kubernetes Storage — DO370 | Red Hat | — |
-| 🔴 Multicluster Management OpenShift — DO480 | Red Hat | — |
-| 🔴 Managing Enterprise Automation with Ansible — DO467 | Red Hat | — |
-| 🔵 Microsoft Azure Fundamentals — AZ-900 | Microsoft | 2021 |
 | ✅ ITIL Foundation V3 | Exin | 2011 |
 | ✅ DevOps Essentials Professional (DEPC) | CertiProf | 2022 |
 | ✅ Scrum Foundation Professional (SFPC) | CertiProf | 2022 |
